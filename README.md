@@ -44,12 +44,8 @@ none
  
 # Author
  
-作成情報を列挙する
- 
-* 松本直樹
-* 所属
-* kd1299709@st.kobedenshi.ac.jp
+none
  
 # License
 
-おそらく学校で使用したコードがあるので、あまり濫用できない。
+none
